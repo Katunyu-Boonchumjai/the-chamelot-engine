@@ -1,0 +1,15 @@
+THE CHAMELOT - SHOWCASE VERSION
+===============================
+
+This repository contains a limited "Showcase" version of the Chamelot Slot Engine.
+It is provided for demonstration and portfolio purposes ONLY.
+
+RESTRICTIONS:
+1. You may NOT use this code for commercial purposes.
+2. The core proprietary algorithms (PID Control, Math Models) have been redacted.
+3. This is NOT the full product.
+
+TO OBTAIN THE FULL VERSION:
+Please visit the purchase links in the README.md file.
+
+(c) 2026 The Chamelot Dev Team. All Rights Reserved.
