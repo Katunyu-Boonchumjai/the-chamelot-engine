@@ -11,7 +11,6 @@
 ## 🚀 Features (Full Version)
 *   **PID Volatility Control:** Natural RTP fluctuation within 90-96%.
 *   **Fail-Safe Architecture:** Transactional spins, crash-recovery.
-*   **GLI Compliance-Ready:** Deterministic RNG seeding.
 *   **Python/C++ Optimized:** Capable of 10,000 simulations/sec.
 
 ## 📁 Repository Structure
