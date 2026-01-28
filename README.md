@@ -34,6 +34,6 @@ To acquire the complete Commercial or Academic license (with full source code):
 * **Professional Use Only:** By acquiring this engine, you acknowledge that you are a professional entity with the technical capacity to manage high-variance probabilistic systems. **The developer provides the engine; the user provides the compliance.**
 * **Non-Support of Illegal Use:** The developer does not support or condone the use of this software in any unlicensed or unauthorized gambling operations.
 
-Copyright Notice: This software is developed under the project codename 'The Chamelot Dev Team'. All commercial rights are managed by Katunyu Boonchumjai.
+Copyright Notice: This software is developed under the project codename 'The Chamelot'. All commercial rights are managed by Katunyu Boonchumjai.
 
 *(c) 2026 The Chamelot Dev Team.*
