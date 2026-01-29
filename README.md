@@ -17,6 +17,11 @@
 *   `/src`: Definitions and Interface classes (Implementation hidden).
 *   `/docs`: Architecture diagrams.
 *   `/simulations`: Result graphs.
+
+---
+
+<img width="2084" height="1769" alt="simulation_results" src="https://github.com/user-attachments/assets/a3b64fe6-cd81-4080-8f8d-1122f3dea50c" />
+
 ---
 
 ## 🛒 Get the Full Source Code
