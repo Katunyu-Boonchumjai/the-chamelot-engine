@@ -7,6 +7,13 @@
 ### 🌪️ Chaos Mode Stress Testing
 The engine is verified for extreme volatility. Launch a **10 Million Spin** test with random bets ($1 to $3,000+) and watch the PID maintain sub-0.5% error margins.
 
+
+<img width="1800" height="1500" alt="recovery_dashboard" src="https://github.com/user-attachments/assets/03f02e62-e355-452f-9473-1808ff51c52f" />
+
+
+* **RTP Convergence:** Watch the Purple line (Actual RTP) snap onto the Red dashed line (Target) with extreme precision.
+* **PID Response:** The control signal (Signal u) dynamically adjusts between our safety bounds (-0.9 to +2.0) to stabilize house profit without breaking the "natural" feel of the game.
+
 ---
 
 ## 🚀 Quick Start
@@ -36,14 +43,6 @@ Run the interactive CLI to stress-test your math:
 ```bash
 python3 demo.py
 ```
-### 🌪️ Chaos Mode Stress Testing
-The engine is verified for extreme volatility. Below is a **10,000 Spin Chaos Stress Test** showcasing the PID's ability to maintain a 90.0% RTP target even during multiple "Black Swan" events and random bet spikes ($1.0 - $3000.0).
-
-<img width="1800" height="1500" alt="recovery_dashboard" src="https://github.com/user-attachments/assets/03f02e62-e355-452f-9473-1808ff51c52f" />
-
-
-* **RTP Convergence:** Watch the Purple line (Actual RTP) snap onto the Red dashed line (Target) with extreme precision.
-* **PID Response:** The control signal (Signal u) dynamically adjusts between our safety bounds (-0.9 to +2.0) to stabilize house profit without breaking the "natural" feel of the game.
 ---
 
 ##  Project Structure
