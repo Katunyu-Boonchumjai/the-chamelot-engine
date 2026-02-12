@@ -71,6 +71,9 @@ python3 demo.py
 **Author:** [Katunyu Boonchumjai](https://github.com/Katunyu-Boonchumjai)  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/katunyu-boonchumjai-12ba6334b/)  
 **Project:** The Chamelot  
+
+![Snyk Vulnerability scanner badge](https://snyk.io/test/github/Katunyu-Boonchumjai/The-Chamelot-Engine/badge.svg)
+
 ## ⚖️ Legal Disclaimer
 
 > [!CAUTION]
